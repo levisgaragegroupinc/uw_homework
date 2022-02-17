@@ -1,0 +1,49 @@
+Edit-01
+Changed the div to <header> and removed the class "header". Updated instances in the css where the class "header was used.
+
+Edit-02
+Changed the div to a <nav> tag. Updated the instances in css where div was used to nav. 
+
+Edit-03
+Changed the hero image from a div to a image tag <img>. Updated the css. 
+
+Edit-04
+Changed the div to the <main> tag. Removed the class "content".
+
+Edit-05
+Added an aria-label attribute to the img tags to improve accessibility. 
+
+Edit-06
+Changed div to <aside> and removed the class "benefits". Updated instances where the class "benefits" was used in css.
+
+Edit-07
+Removed uneccessary css styling for the aside content. 
+
+Edit-08
+Removed the Id attributes as these were unecessary and were not being referenced in the CSS. 
+
+Edit-09
+Combined multiple classes into one class that were all using the same styling. 
+
+Edit-10
+Removed the class "seo" and used the <span> tag to style it in css.
+
+Edit-11
+Removed the class "footer" and used the <footer> tag instead. Updated the related css styling. 
+
+Edit-12
+Use the same font-family
+.services
+.aside
+.header nav
+
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+
+
+
+
+
+
